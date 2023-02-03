@@ -33,3 +33,8 @@ num3=float(input("숫자3 입력:")) #입력반은 숫자 실수로 변환(int)
 
 print("num1+num2=", num1+num2)
 print("num1+num2+num3=", num1+num2+num3)
+
+230203
+왼쪽에서 0부터, 오른쪽에서 -1부터
+
+위키페디아, 워드클라우드 설치 : 터미널에 pip install wikipedia, pip install Worldcloud 입력
