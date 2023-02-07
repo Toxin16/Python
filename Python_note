@@ -6,6 +6,8 @@ SyntaxError: invalid syntax 에러 발생시
 강성훈
 파이썬 기본'''
 
+파이썬은 들여쓰기도 문법에 포함됨.
+
 num1=20 #num1 변수에 정수 20저장
 num2=20.0 #num2 변수에 정수 20.0저장
 ch1='python' #ch1 변수에 문자열 저장
